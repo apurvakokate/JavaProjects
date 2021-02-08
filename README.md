@@ -14,5 +14,10 @@ Bot saves princess 2 - Output next move to reach princess
 ## Tic Tac Toe
 Tic Tac Toe - Ouput next move in game of Tic Tac Toe
 
-##Reverse Integer
+## Reverse Integer
 Given a signed 32-bit integer x, return x with its digits reversed.
+
+## ZigZag string
+P   A   H   N
+A P L S I I G
+Y   I   R
