@@ -21,3 +21,6 @@ Given a signed 32-bit integer x, return x with its digits reversed.
 P   A   H   N
 A P L S I I G
 Y   I   R
+
+## Longest Palindrome
+Given a string s, return the longest palindromic substring in s.
